@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Tic Tac Toe  🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is a Tic Tac Toe game made in flutter",
+    url: "https://github.com/MDK-404/PRODIGY_AD_04.git",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Todo list App",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      " SImple To Do list app made in flutter",
+    url: "https://github.com/MDK-404/Prodigy_AD_02.git",
   },
   {
-    title: "My Resume Site",
+    title: "We Connect APp",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This is a social media app similar to instagram made in Java",
+    url: "https://github.com/MDK-404/InstagramClonewithJava.git",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Bus Tikceting System",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Bus Tikceting System made in C# .NET",
+    url: "https://github.com/MDK-404/Bus-Ticketing-System.git",
   },
 ];
 
